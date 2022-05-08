@@ -5,7 +5,7 @@
   "git_email": "cc-404@users.noreply.github.com",
   "use_own_dt": true,
   "dt_url": "TeamWin/android_device_google_crosshatch",
-  "dt_branch": "main",
+  "dt_branch": "aosp-9.0",
   "dt_remote": "github",
   "dt_path": "device/google/crosshatch",
   "device_code": "blueline",
@@ -14,5 +14,5 @@
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "aosp-9.0"
+  "fix_branch": "android-9.0"
 }
