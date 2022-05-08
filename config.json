@@ -3,7 +3,7 @@
   "twrp_branch": "twrp-9.0",
   "git_username": "cc-404",
   "git_email": "cc-404@users.noreply.github.com",
-  "use_own_dt": false,
+  "use_own_dt": true,
   "dt_url": "TeamWin/android_device_google_crosshatch",
   "dt_branch": "main",
   "dt_remote": "github",
